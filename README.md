@@ -1,6 +1,6 @@
 Results of the experiments of the research paper:
 Using Large Language Models and Knowledge Graphs for Deciding VAT Chain-Transaction Cases in Austrian Tax Law
-Author: Lukas Knogler
+Author: Lukas Knogler, Austria, JKU
 
 
 In this repository we provide the results of our experiments.
