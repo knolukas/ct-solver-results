@@ -25,16 +25,13 @@ If you use or reference this work, please cite the original paper:
 
 Lukas Knogler, "Using Large Language Models and Knowledge Graphs for Deciding VAT Chain-Transaction Cases in Austrian Tax Law", JKU Linz, Austria.
 
-## License
-
-->
 
 ## Contact
 
 For questions or collaborations, please contact:  
 📧 knogler.lukas@gmail.com
 
-## 📚 Related Work
+## Related Work
 
 This repository is part of the research project:
 
