@@ -33,3 +33,12 @@ Lukas Knogler, "Using Large Language Models and Knowledge Graphs for Deciding VA
 
 For questions or collaborations, please contact:  
 📧 knogler.lukas@gmail.com
+
+## 📚 Related Work
+
+This repository is part of the research project:
+
+**Using Large Language Models and Knowledge Graphs for Deciding VAT Chain-Transaction Cases in Austrian Tax Law**  
+*Author: Lukas Knogler, Austria (JKU Linz)*  
+See the [[code repository](https://github.com/knolukas/chain-transaction-solver.git) for more.
+
