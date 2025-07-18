@@ -14,7 +14,8 @@ In this project, we explore the application of large language models (LLMs) and 
 The repository includes:
 
 - Results and outputs from various experiments conducted as part of the research.
-- Supporting files and data representations used in evaluating LLM-based approaches.
+- Visual representations of eall cases in folder visual_representations.
+  - Naming convention for each visual file: <internal_id>_<data_set>_visual_repr.pdf
 
 > **Note:**  
 > Some data had to be censored to comply with data protection regulations. The original, uncensored data is available through the official sources referenced in the paper.
