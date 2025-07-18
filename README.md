@@ -1,4 +1,4 @@
-# Experimental Results: VAT Chain-Transaction Cases in Austrian Tax Law
+# Experimental Results: VAT Chain Transaction Solver using LLMs and Knowledge Graphs
 
 This repository contains the experimental results for the research paper:
 
