@@ -16,6 +16,7 @@ The repository includes:
 - Results and outputs from various experiments conducted as part of the research.
 - Visual representations of eall cases in folder visual_representations.
   - Naming convention for each visual file: <internal_id>_<data_set>_visual_repr.pdf
+  - The node with teh red border has transport responsibiltiy. If there is no red border, there was no TR identified by the application (invalid CT).
 
 > **Note:**  
 > Some data had to be censored to comply with data protection regulations. The original, uncensored data is available through the official sources referenced in the paper.
