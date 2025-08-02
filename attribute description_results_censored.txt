@@ -1,0 +1,63 @@
+----------------------------------------------------------------------------------------
+Sheets:
+total_data: overview of the whole experimental data (input + output)
+summary tables: condensed views of accuracy calculation and token analysis
+pivot: raw experimental data for summary tables
+pivot_token analysis: raw data for token analysis
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+Attributes of total_data:
+
+internal_id: unique id, running integer
+
+run_id: run id of the example provided by the results of the langchain experiment
+
+inputs_decoded: input data of the experiment, description of the case in natural language, utf-8 decoded
+
+outputs_decoded: output data of the llm, structured output according to the definition, utf-8 decoded
+
+status: llm experiment status, [success]
+
+error: error information if occured
+
+latency: runtime
+
+tokens: number of tokens
+
+total_cost: cost of llm access
+
+data_set: origin/source of the case [Dupont, Exam, M&W, KOLLMANN, REALCASES]
+
+name: source-specific name of the case
+	- Dupont: use of names from the textbook
+	- Exam: names refer to example id of the respective exam
+	- M&W: names refer to chapter and page number
+	- KOLLMANN: id of the original document, variations on the examples have a sub-point
+	- REALCASES: id of the original source, variations on the examples have a sub-point
+
+cypher_statement: extracted cypher statement from structured output
+
+first_enterprise: name of the first enterprise in the CT, if available
+
+last_enterprise: name of the last enterprise in the CT, if available
+
+transport_responsibility: name of the enterprise with transport responsibility, if available
+
+first_supply: direction of the first supply, dispatch enterprise -> recieving enterprise
+
+last_supply: direction of the last supply, dispatch enterprise -> recieving enterprise
+
+is_chain_transaction: boolean, result of rule set 1, true if chain transaction is valid
+
+is_chain_transaction_comment: if chain transaction is not valid at least one reason is stated here
+
+identified_movable_supply: result of the rule set 2, result of the solver, identified movable supply of the case
+
+sample_solution_movable_supply: sample solution, correct movable supply of the case
+
+result: comparison of idenitified and correct movable supply
+	- correct if correct
+	- wrong if wrong
+	- excluded if case was not suitable
+
+----------------------------------------------------------------------------------------
