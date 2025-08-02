@@ -36,7 +36,7 @@ Lukas Knogler, "Using Large Language Models and Knowledge Graphs for Deciding VA
 ## Contact
 
 For questions or collaborations, please contact:  
-📧 knogler.lukas@gmail.com
+📧 knogler@dke.uni-linz.ac.at
 
 ## Related Work
 
