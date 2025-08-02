@@ -1,4 +1,5 @@
 # Experimental Results: VAT Chain Transaction Solver using LLMs and Knowledge Graphs
+https://doi.org/10.5281/zenodo.16112863
 
 This repository contains the experimental results for the research paper:
 
@@ -43,5 +44,7 @@ This repository is part of the research project:
 
 **Using Large Language Models and Knowledge Graphs for Deciding VAT Chain-Transaction Cases in Austrian Tax Law**  
 *Author: Lukas Knogler, Austria (JKU Linz)*  
+https://doi.org/10.5281/zenodo.16112381
+
 See the [code repository](https://github.com/knolukas/chain-transaction-solver.git) for more.
 
