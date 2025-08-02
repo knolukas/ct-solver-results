@@ -1,5 +1,5 @@
 # Experimental Results: VAT Chain Transaction Solver using LLMs and Knowledge Graphs
-Zenodo DOI container of this repository: https://doi.org/10.5281/zenodo.16112863
+The respository is also stored as Zenodo archive with following DOI: https://doi.org/10.5281/zenodo.16112863
 
 This repository contains the experimental results for the research paper:
 
