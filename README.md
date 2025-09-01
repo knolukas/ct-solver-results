@@ -8,16 +8,16 @@ This repository contains the experimental results for the research paper:
 
 ## Overview
 
-In this project, we explore the application of large language models (LLMs) and knowledge graphs to resolve complex VAT chain-transaction cases, specifically within the context of Austrian tax law.
+In this project, we explore the application of Large Language Models (LLMs) and Knowledge Graphs to solve complex VAT chain-transaction cases, specifically within the context of Austrian and European VAT law.
 
 ## Contents
 
 The repository includes:
 
 - Results and outputs from various experiments conducted as part of the research.
-- Visual representations of eall cases in folder visual_representations.
+- Visual representations of all cases in the folder visual_representations.
   - Naming convention for each visual file: <internal_id>_<data_set>_visual_repr.pdf
-  - The node with teh red border has transport responsibiltiy. If there is no red border, there was no TR identified by the application (invalid CT).
+  - The node with the red border has the Transport responsibiltiy. If there is no red border, there was no Transport responsibiltiy identified by the application (invalid chain-transaction).
 
 > **Note:**  
 > Some data had to be censored to comply with data protection regulations. The original, uncensored data is available through the official sources referenced in the paper.
@@ -30,7 +30,7 @@ The repository includes:
 
 If you use or reference this work, please cite the original paper:
 
-Lukas Knogler, "Using Large Language Models and Knowledge Graphs for Deciding VAT Chain-Transaction Cases in Austrian Tax Law", JKU Linz, Austria.
+Lukas Knogler, "Using Large Language Models and Knowledge Graphs for Deciding VAT Chain-Transaction Cases in Austrian Tax Law", 2025, Johannes Kepler University Linz, Austria.
 
 
 ## Contact
