@@ -3,7 +3,7 @@ The respository is also stored as Zenodo archive with following DOI: https://doi
 
 This repository contains the experimental results for the research paper:
 
-**Using Large Language Models and Knowledge Graphs Law-Bases Rules for the Analysis of VAT Chain-Transaction Cases in Austrian VAT Law**  
+**Using Large Language Models and Law-Based Rules over Extracted Knowledge Graphs for the Analysis of VAT Chain-Transaction Cases in Austrian VAT Law**  
 *Author: Lukas Knogler, Johannes Kepler University Linz, Altenberger Str. 69, 4040 Linz, Austria*
 
 ## Overview
@@ -42,7 +42,7 @@ For questions or collaborations, please contact:
 
 This repository is part of the research project:
 
-**Using Large Language Models and Knowledge Graphs Law-Bases Rules for the Analysis of VAT Chain-Transaction Cases in Austrian VAT Law**  
+**Using Large Language Models and Law-Based Rules over Extracted Knowledge Graphs for the Analysis of VAT Chain-Transaction Cases in Austrian VAT Law**  
 *Author: Lukas Knogler, Johannes Kepler University Linz, Altenberger Str. 69, 4040 Linz, Austria*  
 https://doi.org/10.5281/zenodo.16112381
 
